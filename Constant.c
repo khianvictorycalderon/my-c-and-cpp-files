@@ -6,6 +6,6 @@ int main() {
 	
 	printf("This value of %.2f cannot be changed\n", DURATIONSECONDS);
 	
-	system("pause");
+	getchar();
 	return 0;
 }

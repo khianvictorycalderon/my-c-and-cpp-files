@@ -16,6 +16,6 @@ int main() {
 	printf("Your height is about %f feet \n", height); // Display up to 6 digit decimal places
 	printf("Your height is about %0.2f feet \n", height); // Display up to 2 digit decimal places
 	
-	system("pause");
+	getchar();
 	return 0;
 }

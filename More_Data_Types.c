@@ -123,7 +123,7 @@ int main() {
 	printf("num8 value of unsigned long long int num8 is %llu\n", num8);
 	printf("------------------------------------------------\n");	
 	
-	system("pause");
+	getchar();
 	return 0;
 }
 

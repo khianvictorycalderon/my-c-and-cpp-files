@@ -27,6 +27,6 @@ int main() {
 	}
 	
 	printf("\n"); // Add new line
-	system("pause");
+	getchar();
 	return 0;
 }

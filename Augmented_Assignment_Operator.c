@@ -27,6 +27,6 @@ int main() {
 	a /= a;
 	printf("a divided by a is %d\n",a);
 	
-	system("pause");
+	getchar();
 	return 0;
 }

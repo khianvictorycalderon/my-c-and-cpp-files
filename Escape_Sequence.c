@@ -8,6 +8,6 @@ int main() {
 	
 	// Tab space
 	printf("1\t2\t3\t4\n");
-	system("pause");
+	getchar();
 	return 0;
 }

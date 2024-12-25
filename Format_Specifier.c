@@ -21,6 +21,6 @@ int main() {
 	printf("The value of item1 %2.0f with 2 spaces field width\n", item1);
 	printf("The value of item1 %-2.0f with 2 spaces field width but is align in the right\n", item1);
 	
-	system("pause");
+	getchar();
 	return 0;
 }

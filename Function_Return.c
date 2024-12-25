@@ -11,6 +11,6 @@ const char* OddEven(int a) {
 int main() {
     printf("%s", OddEven(2));
     printf("\n");
-    system("pause");
+    getchar();
     return 0;
 }
