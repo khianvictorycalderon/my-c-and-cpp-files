@@ -4,7 +4,8 @@ int main() {
 	
 	const float DURATIONSECONDS = 115.50;
 	
-	printf("This valie of %.2f cannot be changed", DURATIONSECONDS);
+	printf("This value of %.2f cannot be changed\n", DURATIONSECONDS);
 	
+	system("pause");
 	return 0;
 }

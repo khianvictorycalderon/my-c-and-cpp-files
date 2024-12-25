@@ -7,6 +7,7 @@ int main() {
 	printf("\nThis is line 1\nThis is line 2\nThis is line 3\nThis is line 4\n\n");
 	
 	// Tab space
-	printf("1\t2\t3\t4");
+	printf("1\t2\t3\t4\n");
+	system("pause");
 	return 0;
 }

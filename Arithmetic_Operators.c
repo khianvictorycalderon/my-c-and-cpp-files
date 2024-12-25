@@ -50,5 +50,6 @@ int main() {
 	float z = y / (float) x;
 	printf("10 divided by 20 is %d, but with data type conversion.\n",z);
 	
+	system("pause");
 	return 0;
 }

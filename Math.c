@@ -16,4 +16,7 @@ int main() {
 	printf("1.1 ceiled is %d\n", D);
 	printf("3.9 floored is %d\n", E);
 	printf("Absolute value of 24 is %d\n", F);
+	
+	system("pause");
+	return 0;
 }
