@@ -25,7 +25,8 @@ int main() {
 
 	// Output the result
 	printf("Hello %s, You are %d years old.\n", name, age);
-	printf("Your favorite quote is: %s \n- You", quote);
+	printf("Your favorite quote is: %s \n- You\n", quote);
 	
+	system("pause");
 	return 0;
 }
