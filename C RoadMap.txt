@@ -23,7 +23,7 @@
 - switch case statement
 - functions and arguments
 - functions prototype
-- string methods (#include <string.h>)
+- strings
 - for loop
 - while loop
 - do while loop
