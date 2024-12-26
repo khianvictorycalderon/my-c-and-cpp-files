@@ -1,0 +1,37 @@
+- printf
+- escape sequences
+- variable initialization and declaration
+- variable common types
+- system("pause")
+- format specifier
+- basic data types
+- more data types (long, unsigned, etc...)
+- boolean (#include <bool.h>)
+- arithmetic operators
+- augmented arithmetic operators
+- basic input
+- constant
+- functions
+- function arguments
+- math
+- conditional if statement
+- comparison operator
+- logical operator
+- else if statement
+- inline boolean expression
+- ternary operator
+- switch case statement
+- functions and arguments
+- functions prototype
+- string methods (#include <string.h>)
+- for loop
+- while loop
+- do while loop
+- nested and hybrid loops
+- recursion and callstack
+- pointer and adress
+- time and randomization
+- 2D array
+- memory block
+- malloc and alloc, memory management
+- text file CRUD
