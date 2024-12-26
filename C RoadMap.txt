@@ -1,8 +1,8 @@
 - printf
 - escape sequences
+- comments
 - variable initialization and declaration
 - variable common types
-- system("pause")
 - format specifier
 - basic data types
 - more data types (long, unsigned, etc...)
