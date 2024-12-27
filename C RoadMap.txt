@@ -28,6 +28,7 @@
 - while loop
 - do while loop
 - nested and hybrid loops
+- break and continue
 - recursion and callstack
 - pointer and adress
 - time and randomization
