@@ -34,4 +34,3 @@
 - time and randomization
 - matrix (2d array)
 - memory block
-- malloc, alloc, realloc, free (memory management)
