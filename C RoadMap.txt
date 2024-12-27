@@ -32,7 +32,7 @@
 - recursion and callstack
 - pointer and adress
 - time and randomization
-- 2D array
+- matrix (2d array)
 - memory block
 - malloc and alloc, memory management
 - text file CRUD
