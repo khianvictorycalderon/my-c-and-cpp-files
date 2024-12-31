@@ -9,6 +9,7 @@
 - assignment operators
 - data type conversion
 - cin
+- math
 - if else statement
 - comparison operator
 - logical operator
