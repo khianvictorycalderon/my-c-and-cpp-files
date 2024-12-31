@@ -1,4 +1,5 @@
 - cout
+- escape sequence
 - comment
 - variables
 - data types
