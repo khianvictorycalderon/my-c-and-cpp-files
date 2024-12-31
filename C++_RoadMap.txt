@@ -7,8 +7,7 @@
 - namespace
 - arithmetic operators
 - assignment operators
-- typeof
-- type conversion
+- data type conversion
 - cin
 - if else statement
 - comparison operator
