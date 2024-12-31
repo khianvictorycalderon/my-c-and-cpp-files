@@ -6,6 +6,7 @@
 - std string
 - namespace
 - arithmetic operators
+- assignment operators
 - typeof
 - type conversion
 - cin
