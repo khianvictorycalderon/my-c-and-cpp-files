@@ -1,1 +1,29 @@
-Empty
+- cout
+- comment
+- variables
+- data types
+- std string
+- namespace
+- arithmetic operators
+- typeof
+- type conversion
+- cin
+- if else statement
+- comparison operator
+- logical operator
+- nested if else statemet
+- switch case
+- ternary operator
+- for loop
+- nested for loop
+- random
+- nested switch, if, and for
+- array
+- sizeof
+- pointer
+- functions
+- memory address
+- recursion
+- struct
+- enum
+- class & constructor
