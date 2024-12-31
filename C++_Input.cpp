@@ -5,6 +5,7 @@ int main() {
 	using std::cin;
 	using std::getline;
 	using std::string;
+	using std::ws;
 	
 	string name;
 	cout << "What is your name?\n";
@@ -14,10 +15,9 @@ int main() {
 	cout << "How old are you?\n";
 	cin >> age;
 	
-	cin.ignore(); // This is necessary to avoid skipping the getline input
 	string quote;
 	cout << "What is your favorite qoute?\n";
-	getline(cin, quote);
+	getline(cin >> ws, quote);
 	
 	cout << "\n\n";
 	cout << "Hello " << name << ", you are " << age << " years old.\n";
