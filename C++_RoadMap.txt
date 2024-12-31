@@ -20,7 +20,6 @@
 - nested for loop
 - while loop
 - random
-- nested switch, if, and for
 - array
 - sizeof
 - pointer
